@@ -4,5 +4,17 @@
     "name": "Kennedy Lane",
     "email": "mattis.Cras@nonenimMauris.net",
     "phone": "(542) 451-7038"
+  },
+  {
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22",
+    "id": "168dace3-54a7-422a-93fe-bd621dd7b20e"
+  },
+  {
+    "name": "Bogdan",
+    "email": "bogdan@gmail.com",
+    "phone": "322-22-22",
+    "id": "2cebb0c0-5cfe-441c-82fb-a72e2d606bce"
   }
 ]
